@@ -92,7 +92,9 @@ seaborn==0.11.1
 
 **RRTbenchmark.m**: RRT algorithm realized by MATLAB.
 
+# A simple simulation example
 
+- ![avatar](/Dynamic_obstacle_avoidance/GIF/compare_aifds.gif)
 
 
 
