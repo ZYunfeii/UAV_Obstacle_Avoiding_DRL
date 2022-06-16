@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=4815F7&center=true&lines=I'm+Yunfei+Zhang!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=4815F7&center=true&lines=DRL+for+UAV+Obstacle+Avoiding)](https://git.io/typing-svg)
 
 # README
 
