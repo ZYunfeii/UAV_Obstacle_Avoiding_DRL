@@ -4,6 +4,8 @@
 
 This is a project about deep reinforcement learning autonomous obstacle avoidance algorithm for **UAV**. The whole project includes obstacle avoidance in **static environment** and obstacle avoidance in **dynamic environment**. In the static environment, **Multi-Agent Reinforcement Learning** and **artificial potential field algorithm** are combined. In the dynamic environment, the project adopts the combination of **disturbed flow field algorithm** and **single agent reinforcement learning algorithm**.
 
+As this is my undergraduate graduation project and my academic level is limited, I wrote a conference paper at that time. The address of the paper is: [Adaptive Interfered Fluid Dynamic System Algorithm Based on Deep Reinforcement Learning Framework](https://link.springer.com/chapter/10.1007/978-981-16-9492-9_139)
+
 ## Static environment
 
 There are four methods to solve:
